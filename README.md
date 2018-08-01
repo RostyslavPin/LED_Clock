@@ -3,7 +3,7 @@
 
 ### Written in pure  C with 2 buttons to change hour and minutes.
 Video
-<a href="https://youtu.be/AEyMU1UjD8s"><img src="https://thumb.ibb.co/m113dz/image.png" alt="image" border="0"></a>
+[![VIDEO](<a href="https://youtu.be/AEyMU1UjD8s"><img src="https://thumb.ibb.co/m113dz/image.png" alt="image" border="0"></a>
 ### Run
 ``` 
 1. makefile hex
