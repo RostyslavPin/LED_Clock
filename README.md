@@ -3,6 +3,6 @@
 
 ### Written in pure  C with 2 buttons to change hour and minutes.
 <a href="https://ibb.co/m113dz"><img src="https://thumb.ibb.co/m113dz/image.png" alt="image" border="0"></a>
-###Run
+### Run
 ` makefile hex
 ` makefile flash
