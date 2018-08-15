@@ -6,6 +6,6 @@
 <a href="https://youtu.be/AEyMU1UjD8s"><img src="https://thumb.ibb.co/m113dz/image.png" alt="image" border="0"></a>
 ### Run
 ``` 
-1. makefile hex
-2. makefile flash 
+1. make hex
+2. make flash 
 ```
